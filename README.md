@@ -25,3 +25,7 @@ Program contains at least +500 lines of code, using 1 external or additional lib
 User Manual below:
 
 [Manual de Usario.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12783345/Manual.de.Usario.pdf)
+
+
+This was the final project for the Course "BIS06 - Programming III" at Universidad Latina de Costa Rica in 2022.
+Since project development was for Spanish students and professor, both the app and all code comments are in spanish.
