@@ -1,5 +1,5 @@
 # BIS06_InfoBanner_FinalProject
-## Customizable informational banner, similar as the bottom of the screen in the news.
+## Customizable info banner, similar as seen in the news at bottom of the screen.
 
 You can add customizable text and metrics, this was created with the idea of the Call Center business in mind, to share information with the agents without distracting them from calls. 
 
