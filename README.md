@@ -26,13 +26,13 @@ Program contains at least +500 lines of code, using 1 external or additional lib
 [PG3 - Diagrama de Clases.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12784774/PG3.-.Diagrama.de.Clases.pdf)
 
 ## Activity Diagram:
-![PG3 - Diagrama Actividad](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/assets/63088555/894efaf1-a032-4681-96c6-e8361ace202a)
+[PG3 - Diagrama Actividad.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12784867/PG3.-.Diagrama.Actividad.pdf)
 
 ## Use case Diagram:
-![PG3 - Diagrama casos de uso](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/assets/63088555/0b47ce2b-fe1b-4027-8f2d-1fefacd0ae02)
+[PG3 - Diagrama casos de uso.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12784869/PG3.-.Diagrama.casos.de.uso.pdf)
 
 ## Object Diagram:
-![PG3 - Diagrama de objetos](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/assets/63088555/767d3242-340d-410e-bbed-692dd8a45a69)
+[PG3 - Diagrama de objetos.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12784872/PG3.-.Diagrama.de.objetos.pdf)
 
 ## User Manual:
 [Manual de Usario.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12783345/Manual.de.Usario.pdf)
