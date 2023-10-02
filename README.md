@@ -22,8 +22,20 @@ Program contains at least +500 lines of code, using 1 external or additional lib
 
     6. (Optional) If you want to create your own database from scratch, please use the file "BIS06ProjectDB.sql" on this repo. 
 
-User Manual below:
 
+## Activity Diagram
+[PG3 - Diagrama Actividad.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12784770/PG3.-.Diagrama.Actividad.pdf)
+
+## Use case Diagram
+[PG3 - Diagrama casos de uso.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12784771/PG3.-.Diagrama.casos.de.uso.pdf)
+
+## Class Diagram
+[PG3 - Diagrama de Clases.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12784774/PG3.-.Diagrama.de.Clases.pdf)
+
+## Object Diagram
+[PG3 - Diagrama de objetos.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12784780/PG3.-.Diagrama.de.objetos.pdf)
+
+## User Manual below:
 [Manual de Usario.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12783345/Manual.de.Usario.pdf)
 
 
