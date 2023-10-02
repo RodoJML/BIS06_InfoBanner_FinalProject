@@ -10,29 +10,17 @@ Program contains at least +500 lines of code, using 1 external or additional lib
 
     1. Download the .jar file "BIS06_-_FinalProject0.jar" located in the "dist" folder of this repo. 
     
-
-
     2. Download the database file "TestDB.db" on this repo.
-
     
-
     3. Make sure Java is installed on your computer. 
-
     
-
     4. Run the following command "Java -jar /filepath" (Replace the "/filepath" word with the location of the .jar file.
-    
     Example: Java -jar /Users/rodo/Documents/Developer/Java/Finished\ Programs/BIS06_-_FinalProject0.jar
-
-
 
     5. Once the app run for the first time please provide the database path (Downloaded on step 2):
     Example: Java -jar /Users/rodo/Desktop/TestDB.db
 
-
-
     6. (Optional) If you want to create your own database from scratch, please use the file "BIS06ProjectDB.sql" on this repo. 
-    
 
 User Manual below:
 
