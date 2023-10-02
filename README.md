@@ -24,7 +24,7 @@ Program contains at least +500 lines of code, using 1 external or additional lib
 
 
 ## Activity Diagram:
-[PG3 - Diagrama Actividad.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12784770/PG3.-.Diagrama.Actividad.pdf)
+![PG3 - Diagrama Actividad](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/assets/63088555/894efaf1-a032-4681-96c6-e8361ace202a)
 
 ## Use case Diagram:
 [PG3 - Diagrama casos de uso.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12784771/PG3.-.Diagrama.casos.de.uso.pdf)
