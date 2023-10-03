@@ -23,19 +23,19 @@ Program contains at least +500 lines of code, using 1 external or additional lib
     6. (Optional) If you want to create your own database from scratch, please use the file "BIS06ProjectDB.sql" on this repo. 
 
 ## Class Diagram:
-[PG3 - Diagrama de Clases.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12784774/PG3.-.Diagrama.de.Clases.pdf)
+<img width="1837" alt="classDiagram" src="https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/assets/63088555/dd4eb67b-9044-4e6c-a98e-f15011c6e512">
 
 ## Activity Diagram:
-[PG3 - Diagrama Actividad.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12784867/PG3.-.Diagrama.Actividad.pdf)
+<img width="968" alt="activityDiagram" src="https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/assets/63088555/bfacb993-7ce7-454a-8c14-3291007ddd8b">
 
 ## Use case Diagram:
-[PG3 - Diagrama casos de uso.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12784869/PG3.-.Diagrama.casos.de.uso.pdf)
-
-## Object Diagram:
-[PG3 - Diagrama de objetos.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12784872/PG3.-.Diagrama.de.objetos.pdf)
+<img width="904" alt="useCaseDiagram" src="https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/assets/63088555/98fde326-2c2f-475f-a8d8-d90a8c2851d5">
 
 ## User Manual:
 [Manual de Usario.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12783345/Manual.de.Usario.pdf)
+
+## Technical Manual:
+[Manual Técnico.pdf](https://github.com/RodoJML/BIS06_InfoBanner_FinalProject/files/12796552/Manual.Tecnico.pdf)
 
 
 This was the final project for the Course "BIS06 - Programming III" at Universidad Latina de Costa Rica in 2022.
