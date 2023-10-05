@@ -3,7 +3,7 @@
 
 You can add customizable text and metrics, this was created with the idea of the Call Center business in mind, to share information with the agents without distracting them from calls. 
 
-Main design pattern used was (M,V,C) Model, View, Controller for the structure all written in Java, and SQLite for the database.
+Main design pattern used was (MVC) Model, View, Controller for the structure all written in Java, and SQLite for the database.
 Program contains at least +500 lines of code, using 1 external or additional library called "sqlite-jdbc" for all the database features.
 
 **To run the app**
